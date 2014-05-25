@@ -1,4 +1,8 @@
 SHARE
 =====
 
-**About:** various files for public, necessary docs and files
+**About:** This repository contains Device Factory files for public distribution.
+
+**Contents:**
+* docs - Documentation
+* hexfiles - Binary distributions
