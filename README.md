@@ -1,4 +1,4 @@
-share
+SHARE
 =====
 
-various files for public, necessary docs and files
+**About:** various files for public, necessary docs and files
