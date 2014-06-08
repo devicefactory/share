@@ -158,3 +158,20 @@ Takeaways
 * looks like their strategy is to place the algorithms inside of [gecko arm M3](https://cdn.sparkfun.com/assets/learn_tutorials/2/1/3/EFM32LG295.pdf) chip.
 * cc2541 is used for BLE, but doesn't looks like it's used for realtime accelerometer data transimission. Used only for sync-ing.
 * [their accelerometer](https://cdn.sparkfun.com/assets/learn_tutorials/2/1/3/CD00274221.pdf) has ultra low power capabilities, but is not as feature rich as ours.
+
+
+[DropCam](https://www.dropcam.com/)
+-----------------------------------
+
+* adds BLE monitoring to the camera with computer vision tech.
+* BLE tabs are placed on door or windows to alert the camera of movement.
+* Combine the in-house movement monitoring with image recognition algorithms on the cam.
+* It's the realization of the door alarm idea we had with DF1.
+
+
+[iFind](https://www.kickstarter.com/projects/yuansong84/ifind-the-worlds-first-battery-free-item-locating)
+----------------------------------------------------------------------------------------------------------
+
+* claims battery free operation with physical device dimensions 32 x 27 x 2.4mm.
+* even if RF induction can generate sufficient power for BLE, I doubt it can be realized in that form-factor.
+* should be interesting to see how this one pans out.
