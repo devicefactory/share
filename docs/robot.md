@@ -1,0 +1,7 @@
+Device Factory has always been primarily about  having fun with electronics,  and our products are more about hacking.   When we ran into manufacturing issues with our DF1 device we came up with a hackers solution by pivoting out device into a Bluetooth Low Energy Joystick.  However, sometimes we create something just because it is fun and cool without the slightest hint of functionality whatsoever.
+
+Introducing the DF1 Robot! It contains the DF1 device built into its chest, but other than that… it has no functional purpose at all.  Maybe it could be it could be a cool enclosure for the DF1 as an IBeacon?  However, I think the DF1 Robot  is mostly just our mascot.
+
+The Robot design came about at the same time as our Joystick in another collaboration with Victor at Cubo, a custom 3D toy design and printing company.  Although there is no function, it does not mean that it is simple.  There are 21 parts in total that make up the DF1 Robot.  The joints of all the limbs are articulated requiring precise fit to allow movement, but enough friction to hold a position.  It takes 20 hours of printing alone to construct with 3D printers, but it is the only way since making molds for this type of project would be insanely expensive.
+
+We hope you like the result.  He is kind of cute in a badass way. Download the STL files print one up yourself and we’ll send you a device if you post a photo and give us a link…
