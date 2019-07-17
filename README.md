@@ -3,6 +3,8 @@ SHARE
 
 **About:** This repository contains Device Factory files for public distribution.
 
+NOTE: not for direct human consumption
+
 **Contents:**
-* docs - Documentation
+* media - Content distribution
 * hexfiles - Binary distributions
